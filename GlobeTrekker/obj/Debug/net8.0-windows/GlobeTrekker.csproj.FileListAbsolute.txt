@@ -1,0 +1,12 @@
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\bin\Debug\net8.0-windows\GlobeTrekker.deps.json
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\bin\Debug\net8.0-windows\GlobeTrekker.dll
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\bin\Debug\net8.0-windows\GlobeTrekker.pdb
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.AssemblyInfoInputs.cache
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.AssemblyInfo.cs
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.csproj.CoreCompileInputs.cache
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.sourcelink.json
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.dll
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\refint\GlobeTrekker.dll
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.pdb
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\ref\GlobeTrekker.dll
