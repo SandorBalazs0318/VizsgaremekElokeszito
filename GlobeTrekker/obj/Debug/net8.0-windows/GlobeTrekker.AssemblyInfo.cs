@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GlobeTrekker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a37704394102debaca1c66d34fefbf7015fa6d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc83352b41b193fc252c6f0e1cfd94ded0b110d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GlobeTrekker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GlobeTrekker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
