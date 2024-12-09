@@ -10,3 +10,7 @@ C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-
 C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\refint\GlobeTrekker.dll
 C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.pdb
 C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\ref\GlobeTrekker.dll
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.csproj.AssemblyReference.cache
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\Controls\BindablePasswordBox.g.cs
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker_MarkupCompile.cache
+C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker_MarkupCompile.lref
