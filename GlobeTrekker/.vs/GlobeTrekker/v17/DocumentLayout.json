@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F63FF13-C659-4C05-A54D-7EB2D31E4800}|GlobeTrekker.csproj|c:\\users\\bazsi\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\globetrekker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F63FF13-C659-4C05-A54D-7EB2D31E4800}|GlobeTrekker.csproj|solutionrelative:globetrekker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F63FF13-C659-4C05-A54D-7EB2D31E4800}|GlobeTrekker.csproj|c:\\users\\bazsi\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F63FF13-C659-4C05-A54D-7EB2D31E4800}|GlobeTrekker.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F63FF13-C659-4C05-A54D-7EB2D31E4800}|GlobeTrekker.csproj|c:\\users\\bazsi\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\globetrekker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F63FF13-C659-4C05-A54D-7EB2D31E4800}|GlobeTrekker.csproj|solutionrelative:globetrekker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GlobeTrekker",
               "DocumentMoniker": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
               "RelativeDocumentMoniker": "GlobeTrekker.csproj",
-              "ToolTip": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj*",
-              "RelativeToolTip": "GlobeTrekker.csproj*",
+              "ToolTip": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
+              "RelativeToolTip": "GlobeTrekker.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-09T18:05:14.789Z",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
