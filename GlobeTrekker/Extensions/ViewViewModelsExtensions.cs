@@ -1,6 +1,9 @@
 ﻿using GlobeTrekker.ViewModels;
 using GlobeTrekker.ViewModels.ControlPanel;
 using GlobeTrekker.ViewModels.Login;
+using GlobeTrekker.Views;
+using GlobeTrekker.Views.ControlPanel;
+using GlobeTrekker.Views.Login;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace GlobeTrekker.Extensions

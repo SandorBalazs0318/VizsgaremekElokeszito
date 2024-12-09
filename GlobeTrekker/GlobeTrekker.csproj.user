@@ -5,6 +5,9 @@
     <Compile Update="Controls\BindablePasswordBox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\Caption.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\ControlPanel\ControlPanelView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -53,45 +56,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Menu.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolCitizens\ParentView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolCitizens\SchoolCitizensMenu.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolCitizens\SchoolCitizensView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolCitizens\StudentView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolCitizens\TeacherView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolClasses\SchoolClassesView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolGrades\ClassesTaughtView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolGrades\CurrentLessonView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolGrades\EndofSemesterView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolGrades\EndofYearView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolGrades\SchoolGradesMenu.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolGrades\SchoolGradesView.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\SchoolSubjects\SchoolSubjectsView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\UserOptionControl.xaml">
