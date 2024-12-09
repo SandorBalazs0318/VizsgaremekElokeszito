@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controls\BindablePasswordBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ControlPanel\ControlPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="App.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\BindablePasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\ViewModelViewDataTamplate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ControlBarButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\IconButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\MenuButtons.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\SubMenuButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\UIColors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Caption.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ControlPanel\ControlPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Header.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LeftPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Login\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolCitizens\ParentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolCitizens\SchoolCitizensMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolCitizens\SchoolCitizensView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolCitizens\StudentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolCitizens\TeacherView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolClasses\SchoolClassesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolGrades\ClassesTaughtView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolGrades\CurrentLessonView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolGrades\EndofSemesterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolGrades\EndofYearView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolGrades\SchoolGradesMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolGrades\SchoolGradesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SchoolSubjects\SchoolSubjectsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserOptionControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
