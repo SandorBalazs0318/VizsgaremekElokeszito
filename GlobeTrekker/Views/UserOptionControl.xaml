@@ -9,7 +9,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="35" d:DesignWidth="800">
     <UserControl.DataContext>
-        <viewModel:UserOptionControlViewModel />
+        <viewModel:UserOptionControlViewModel/>
     </UserControl.DataContext>
     <StackPanel Grid.Column="1"
         Orientation="Horizontal"

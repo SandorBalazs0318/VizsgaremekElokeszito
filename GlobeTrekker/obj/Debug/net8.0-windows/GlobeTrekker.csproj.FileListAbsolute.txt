@@ -41,3 +41,4 @@ C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-
 C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\Views\SchoolSubjects\SchoolSubjectsView.g.cs
 C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\Views\UserOptionControl.g.cs
 C:\Users\Bazsi\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\c9sanbal\source\repos\VizsgaremekElokeszito\GlobeTrekker\obj\Debug\net8.0-windows\GlobeTrekker.csproj.AssemblyReference.cache

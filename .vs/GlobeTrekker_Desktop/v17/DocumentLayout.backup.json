@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\useroptioncontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\useroptioncontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\leftpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\leftpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\resources\\viewmodelviewdatatamplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\resources\\viewmodelviewdatatamplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\globetrekker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\globetrekker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\controls\\viewmodels\\useroptioncontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\controls\\viewmodels\\useroptioncontrolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\extensions\\viewviewmodelsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\extensions\\viewviewmodelsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\styles\\uicolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -81,6 +45,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\caption.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\caption.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\leftpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\leftpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|c:\\users\\c9sanbal\\source\\repos\\vizsgaremekelokeszito\\globetrekker\\views\\useroptioncontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}|GlobeTrekker\\GlobeTrekker.csproj|solutionrelative:globetrekker\\views\\useroptioncontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,33 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobeTrekker",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
-              "RelativeDocumentMoniker": "GlobeTrekker\\GlobeTrekker.csproj",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
-              "RelativeToolTip": "GlobeTrekker\\GlobeTrekker.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T11:48:36.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserOptionControlViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Controls\\ViewModels\\UserOptionControlViewModel.cs",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Controls\\ViewModels\\UserOptionControlViewModel.cs",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Controls\\ViewModels\\UserOptionControlViewModel.cs",
-              "RelativeToolTip": "GlobeTrekker\\Controls\\ViewModels\\UserOptionControlViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:48:19.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ViewModelViewDataTamplate.xaml",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Resources\\ViewModelViewDataTamplate.xaml",
               "RelativeDocumentMoniker": "GlobeTrekker\\Resources\\ViewModelViewDataTamplate.xaml",
@@ -137,92 +95,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserOptionControl.xaml",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\UserOptionControl.xaml",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\UserOptionControl.xaml",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\UserOptionControl.xaml*",
-              "RelativeToolTip": "GlobeTrekker\\Views\\UserOptionControl.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T11:45:11.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.xaml",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Menu.xaml",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\Menu.xaml",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Menu.xaml*",
-              "RelativeToolTip": "GlobeTrekker\\Views\\Menu.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T11:45:07.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LeftPanel.xaml",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\LeftPanel.xaml",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\LeftPanel.xaml",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\LeftPanel.xaml*",
-              "RelativeToolTip": "GlobeTrekker\\Views\\LeftPanel.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T11:45:24.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\MainView.xaml",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\MainView.xaml*",
-              "RelativeToolTip": "GlobeTrekker\\Views\\MainView.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T11:45:22.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Header.xaml",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Header.xaml",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\Header.xaml",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Header.xaml",
-              "RelativeToolTip": "GlobeTrekker\\Views\\Header.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T11:45:26.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ViewViewModelsExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Extensions\\ViewViewModelsExtensions.cs",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Extensions\\ViewViewModelsExtensions.cs",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Extensions\\ViewViewModelsExtensions.cs",
-              "RelativeToolTip": "GlobeTrekker\\Extensions\\ViewViewModelsExtensions.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:48:10.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserAccount.cs",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Models\\UserAccount.cs",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Models\\UserAccount.cs",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Models\\UserAccount.cs",
-              "RelativeToolTip": "GlobeTrekker\\Models\\UserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:48:07.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "UIColors.xaml",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\UIColors.xaml",
               "RelativeDocumentMoniker": "GlobeTrekker\\Styles\\UIColors.xaml",
@@ -234,19 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MenuButtons.xaml",
-              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\MenuButtons.xaml",
-              "RelativeDocumentMoniker": "GlobeTrekker\\Styles\\MenuButtons.xaml",
-              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\MenuButtons.xaml",
-              "RelativeToolTip": "GlobeTrekker\\Styles\\MenuButtons.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T11:46:11.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "SubMenuButtonStyle.xaml",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\SubMenuButtonStyle.xaml",
               "RelativeDocumentMoniker": "GlobeTrekker\\Styles\\SubMenuButtonStyle.xaml",
@@ -258,7 +118,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "MenuButtons.xaml",
+              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\MenuButtons.xaml",
+              "RelativeDocumentMoniker": "GlobeTrekker\\Styles\\MenuButtons.xaml",
+              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\MenuButtons.xaml",
+              "RelativeToolTip": "GlobeTrekker\\Styles\\MenuButtons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:46:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IconButton.xaml",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\IconButton.xaml",
               "RelativeDocumentMoniker": "GlobeTrekker\\Styles\\IconButton.xaml",
@@ -270,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "ControlBarButton.xaml",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Styles\\ControlBarButton.xaml",
               "RelativeDocumentMoniker": "GlobeTrekker\\Styles\\ControlBarButton.xaml",
@@ -282,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "GlobeTrekker\\ViewModels\\MainViewModel.cs",
@@ -295,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\ViewModels\\Login\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "GlobeTrekker\\ViewModels\\Login\\LoginViewModel.cs",
@@ -308,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "ControlPanelViewModel.cs",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\ViewModels\\ControlPanel\\ControlPanelViewModel.cs",
               "RelativeDocumentMoniker": "GlobeTrekker\\ViewModels\\ControlPanel\\ControlPanelViewModel.cs",
@@ -321,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\ViewModels\\Base\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "GlobeTrekker\\ViewModels\\Base\\BaseViewModel.cs",
@@ -334,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "Caption.xaml",
               "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Caption.xaml",
               "RelativeDocumentMoniker": "GlobeTrekker\\Views\\Caption.xaml",
@@ -342,6 +214,66 @@
               "RelativeToolTip": "GlobeTrekker\\Views\\Caption.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-11T11:45:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Header.xaml",
+              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Header.xaml",
+              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\Header.xaml",
+              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Header.xaml",
+              "RelativeToolTip": "GlobeTrekker\\Views\\Header.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:45:26.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeftPanel.xaml",
+              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\LeftPanel.xaml",
+              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\LeftPanel.xaml",
+              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\LeftPanel.xaml",
+              "RelativeToolTip": "GlobeTrekker\\Views\\LeftPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:45:24.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\MainView.xaml",
+              "RelativeToolTip": "GlobeTrekker\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:45:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserOptionControl.xaml",
+              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\UserOptionControl.xaml",
+              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\UserOptionControl.xaml",
+              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\UserOptionControl.xaml",
+              "RelativeToolTip": "GlobeTrekker\\Views\\UserOptionControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:45:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Menu.xaml",
+              "RelativeDocumentMoniker": "GlobeTrekker\\Views\\Menu.xaml",
+              "ToolTip": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\Views\\Menu.xaml",
+              "RelativeToolTip": "GlobeTrekker\\Views\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:45:07.495Z",
               "EditorCaption": ""
             }
           ]

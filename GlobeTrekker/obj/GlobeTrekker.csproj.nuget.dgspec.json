@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj": {}
+    "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj": {
+    "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
+        "projectUniqueName": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
         "projectName": "GlobeTrekker",
-        "projectPath": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
-        "packagesPath": "C:\\Users\\Bazsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bazsi\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\obj\\",
+        "projectPath": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\GlobeTrekker.csproj",
+        "packagesPath": "C:\\Users\\c9sanbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c9sanbal\\source\\repos\\VizsgaremekElokeszito\\GlobeTrekker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bazsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\c9sanbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,12 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100, 9.0.100]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -91,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

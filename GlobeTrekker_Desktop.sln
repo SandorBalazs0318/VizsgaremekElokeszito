@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobeTrekker_Desktop", "..\..\GlobeTrekker_Desktop\GlobeTrekker_Desktop.csproj", "{899E402E-7AD8-4C36-BEA2-E00AD8BB1BB1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobeTrekker", "GlobeTrekker\GlobeTrekker.csproj", "{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{899E402E-7AD8-4C36-BEA2-E00AD8BB1BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{899E402E-7AD8-4C36-BEA2-E00AD8BB1BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{899E402E-7AD8-4C36-BEA2-E00AD8BB1BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7E5486-CB1D-4554-BEBA-BD5706D9EDDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
